@@ -1,0 +1,11 @@
+main{
+    text-align: center;
+}
+div img{
+    width: 100%;
+}
+article{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
